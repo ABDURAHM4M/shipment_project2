@@ -1,4 +1,4 @@
-# Shipment Analytics — Portfolio Project (Repaired)
+# Shipment Analytics — Project
 
 **One-line:** ETL + Validation pipeline, KPI dashboard, and an interactive Streamlit demo for logistics shipment data.
 
